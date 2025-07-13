@@ -7,4 +7,5 @@ data/BTCUSDT_1h_inf.csv
 __pycache__/
 **/__pycache__/
 **/catboost_info
+models/catboost_info
 catboost_info
