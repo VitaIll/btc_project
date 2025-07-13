@@ -3,3 +3,6 @@ data/BTCUSDT_1h_5000.csv
 data/BTCUSDT_1h_6000.csv
 data/BTCUSDT_1h_10000.csv
 data/BTCUSDT_1h_inf.csv
+
+__pycache__/
+**/__pycache__/
